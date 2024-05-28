@@ -4,3 +4,4 @@ package.json
 botwpp.js
 tokens
 out.png
+.env
