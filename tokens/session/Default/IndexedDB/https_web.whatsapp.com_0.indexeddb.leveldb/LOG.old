@@ -1,13 +1,15 @@
-2024/05/28-11:20:19.722 1530 Reusing MANIFEST C:\Users\mikeias\Documents\wpp\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/28-11:20:19.722 1530 Recovering log #134
-2024/05/28-11:20:19.726 1530 Reusing old log C:\Users\mikeias\Documents\wpp\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000134.log 
-2024/05/28-11:20:21.855 1a00 Level-0 table #139: started
-2024/05/28-11:20:21.874 1a00 Level-0 table #139: 118680 bytes OK
-2024/05/28-11:20:21.879 1a00 Delete type=0 #134
-2024/05/28-11:20:21.880 1530 Manual compaction at level-0 from '\x00/\x00\x00\x00' @ 72057594037927935 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/05/28-11:20:23.718 1a00 Compacting 1@1 + 1@2 files
-2024/05/28-11:20:23.881 1a00 Generated table #140@1: 49158 keys, 1792814 bytes
-2024/05/28-11:20:23.881 1a00 Compacted 1@1 + 1@2 files => 1792814 bytes
-2024/05/28-11:20:23.885 1a00 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/05/28-11:20:23.886 1a00 Delete type=2 #136
-2024/05/28-11:20:23.886 1a00 Delete type=2 #139
+2024/06/03-19:37:43.301 35c Reusing MANIFEST C:\Users\mikeias\Documents\wpp\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/03-19:37:43.304 35c Recovering log #168
+2024/06/03-19:37:43.323 35c Reusing old log C:\Users\mikeias\Documents\wpp\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000168.log 
+2024/06/03-19:37:46.425 337c Level-0 table #174: started
+2024/06/03-19:37:46.669 337c Level-0 table #174: 218695 bytes OK
+2024/06/03-19:37:46.676 337c Delete type=0 #168
+2024/06/03-19:37:46.677 337c Manual compaction at level-0 from '\x005\x00\x00\x00' @ 72057594037927935 : 1 .. '\x006\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/03-19:37:48.489 35c Compacting 1@1 + 2@2 files
+2024/06/03-19:37:48.645 35c Generated table #175@1: 62082 keys, 2260805 bytes
+2024/06/03-19:37:48.657 35c Generated table #176@1: 3864 keys, 72013 bytes
+2024/06/03-19:37:48.657 35c Compacted 1@1 + 2@2 files => 2332818 bytes
+2024/06/03-19:37:48.662 35c compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/06/03-19:37:48.662 35c Delete type=2 #170
+2024/06/03-19:37:48.662 35c Delete type=2 #171
+2024/06/03-19:37:48.662 35c Delete type=2 #174

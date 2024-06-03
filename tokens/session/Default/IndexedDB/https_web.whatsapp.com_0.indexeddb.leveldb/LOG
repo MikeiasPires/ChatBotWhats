@@ -1,31 +1,15 @@
-2024/05/28-12:39:42.244 2a30 Reusing MANIFEST C:\Users\mikeias\Documents\wpp\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/28-12:39:42.245 2a30 Recovering log #138
-2024/05/28-12:39:42.405 2a30 Reusing old log C:\Users\mikeias\Documents\wpp\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000138.log 
-2024/05/28-12:39:44.534 2b74 Level-0 table #143: started
-2024/05/28-12:39:44.817 2b74 Level-0 table #143: 710843 bytes OK
-2024/05/28-12:39:44.822 2b74 Delete type=0 #138
-2024/05/28-12:39:44.824 1150 Manual compaction at level-0 from '\x000\x00\x00\x00' @ 72057594037927935 : 1 .. '\x001\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/05/28-12:39:46.413 2a30 Compacting 1@1 + 1@2 files
-2024/05/28-12:39:46.750 2a30 Generated table #144@1: 51244 keys, 1838962 bytes
-2024/05/28-12:39:46.750 2a30 Compacted 1@1 + 1@2 files => 1838962 bytes
-2024/05/28-12:39:46.755 2a30 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/05/28-12:39:46.756 2a30 Delete type=2 #140
-2024/05/28-12:39:46.756 2a30 Delete type=2 #143
-2024/05/28-13:25:17.597 2a30 Level-0 table #146: started
-2024/05/28-13:25:17.641 2a30 Level-0 table #146: 1098582 bytes OK
-2024/05/28-13:25:17.647 2a30 Delete type=0 #142
-2024/05/28-13:25:47.095 2b74 Compacting 1@1 + 1@2 files
-2024/05/28-13:25:47.264 2b74 Generated table #147@1: 54165 keys, 1935914 bytes
-2024/05/28-13:25:47.264 2b74 Compacted 1@1 + 1@2 files => 1935914 bytes
-2024/05/28-13:25:47.269 2b74 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/05/28-13:25:47.270 2b74 Delete type=2 #144
-2024/05/28-13:25:47.270 2b74 Delete type=2 #146
-2024/05/28-14:58:08.594 2b74 Level-0 table #149: started
-2024/05/28-14:58:08.663 2b74 Level-0 table #149: 1202325 bytes OK
-2024/05/28-14:58:08.676 2b74 Delete type=0 #145
-2024/05/28-14:58:08.887 2a30 Compacting 1@1 + 1@2 files
-2024/05/28-14:58:08.982 2a30 Generated table #150@1: 57619 keys, 2066330 bytes
-2024/05/28-14:58:08.983 2a30 Compacted 1@1 + 1@2 files => 2066330 bytes
-2024/05/28-14:58:08.994 2a30 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/05/28-14:58:08.995 2a30 Delete type=2 #147
-2024/05/28-14:58:08.995 2a30 Delete type=2 #149
+2024/06/03-19:47:11.102 2bcc Reusing MANIFEST C:\Users\mikeias\Documents\wpp\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/03-19:47:11.102 2bcc Recovering log #173
+2024/06/03-19:47:11.167 2bcc Reusing old log C:\Users\mikeias\Documents\wpp\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000173.log 
+2024/06/03-19:47:13.030 20fc Level-0 table #179: started
+2024/06/03-19:47:13.062 20fc Level-0 table #179: 635950 bytes OK
+2024/06/03-19:47:13.067 20fc Delete type=0 #173
+2024/06/03-19:47:13.068 20fc Manual compaction at level-0 from '\x006\x00\x00\x00' @ 72057594037927935 : 1 .. '\x007\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/03-19:47:14.958 33bc Compacting 1@1 + 2@2 files
+2024/06/03-19:47:15.768 33bc Generated table #180@1: 61394 keys, 2260198 bytes
+2024/06/03-19:47:15.891 33bc Generated table #181@1: 5795 keys, 108482 bytes
+2024/06/03-19:47:15.891 33bc Compacted 1@1 + 2@2 files => 2368680 bytes
+2024/06/03-19:47:15.895 33bc compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/06/03-19:47:15.895 33bc Delete type=2 #175
+2024/06/03-19:47:15.895 33bc Delete type=2 #176
+2024/06/03-19:47:15.895 33bc Delete type=2 #179
