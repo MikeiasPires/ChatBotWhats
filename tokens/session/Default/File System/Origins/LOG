@@ -1,3 +1,2 @@
-2024/06/03-19:47:10.647 2bcc Reusing MANIFEST C:\Users\mikeias\Documents\wpp\tokens\session\Default\File System\Origins/MANIFEST-000001
-2024/06/03-19:47:10.647 2bcc Recovering log #3
-2024/06/03-19:47:10.648 2bcc Reusing old log C:\Users\mikeias\Documents\wpp\tokens\session\Default\File System\Origins/000003.log 
+2024/06/03-20:13:27.229 1b10 Creating DB C:\Users\mikeias\Documents\wpp\tokens\session\Default\File System\Origins since it was missing.
+2024/06/03-20:13:27.259 1b10 Reusing MANIFEST C:\Users\mikeias\Documents\wpp\tokens\session\Default\File System\Origins/MANIFEST-000001

@@ -1,3 +1,2 @@
-2024/06/03-19:47:10.284 2bcc Reusing MANIFEST C:\Users\mikeias\Documents\wpp\tokens\session\Default\Sync Data\LevelDB/MANIFEST-000001
-2024/06/03-19:47:10.287 2bcc Recovering log #3
-2024/06/03-19:47:10.287 2bcc Reusing old log C:\Users\mikeias\Documents\wpp\tokens\session\Default\Sync Data\LevelDB/000003.log 
+2024/06/03-20:13:24.272 2318 Creating DB C:\Users\mikeias\Documents\wpp\tokens\session\Default\Sync Data\LevelDB since it was missing.
+2024/06/03-20:13:24.323 2318 Reusing MANIFEST C:\Users\mikeias\Documents\wpp\tokens\session\Default\Sync Data\LevelDB/MANIFEST-000001
